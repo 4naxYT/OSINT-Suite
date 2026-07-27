@@ -1,5 +1,6 @@
 # OSINT (Open source intelligence) Repo
 > This is a suite that helps people perform `OSINT` on people or similar
+This repo is ment to give you as many tools to help with gathering information
 
 ![License](https://img.shields.io/badge/License-Source%20Available-blue?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-1.0.0-green?style=for-the-badge)
@@ -13,8 +14,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/4naxYT/OSINT-Suite?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/4naxYT/OSINT-Suite?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/4naxYT/OSINT-Suite?style=flat-square)
-
-This repo is ment to give you as many tools to help with gathering information  
 
 ## Ip Reverse search
 > use someone's IP to get aproximate location
