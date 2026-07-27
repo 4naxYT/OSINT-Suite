@@ -1,12 +1,13 @@
-# OSINT (Open source intelligence) Repo
-> This is a suite that helps people perform `OSINT` on people or similar
-This repo is ment to give you as many tools to help with gathering information
+# _**OSINT**_ (*Open source intelligence*) Repo
+> This is a suite that helps people perform **`OSINT`** on people or similar
+This repo is ment to give you as many *tools* to help with gathering information  
+_**and our pre-packed `Tool Runner.exe` will help simplify the steps even more**_
 
 ![License](https://img.shields.io/badge/License-Source%20Available-blue?style=flat-rounded)
 ![Version](https://img.shields.io/badge/version-1.0.0-green?style=flat-rounded)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-rounded&logo=windows)
 ![Language](https://img.shields.io/badge/Language-Batch%20%26%20Python-lightgrey?flat-rounded)
-![Powered by](https://img.shields.io/badge/Powered%20by-ExifTool-important?style=flat-rounded)
+![Powered by](https://img.shields.io/badge/Powered%20by-ExifTool,Sherlock-important?style=flat-rounded)
 
 ## Repo Stats
 
@@ -16,7 +17,7 @@ This repo is ment to give you as many tools to help with gathering information
 ![GitHub last commit](https://img.shields.io/github/last-commit/4naxYT/OSINT-Suite?style=flat-rounded)
 
 ## Ip Reverse search
-> use someone's IP to get aproximate location
+> use someone's **IP** to get aproximate location
 Run our python script via:
 ```bash
 "Run IPcheck.bat"
@@ -59,6 +60,26 @@ maps.google.com
 ```
 Click: [ `Ask Maps` ], 
 Paste the position you get, and check out the location
+
+## Document Info
+Documentation on behavior and intel is crutial to `OSINT` and we have a woring copy of `Obsidian Markdown`
+> or download from [ **https://obsidian.md/** ]
+
+This tool allows more effective and neat documentation and profiling
+```bash
+cd "Documentation (user)"
+```
+
+### Example Info To Document
+1. acusee Claim
+2. defendant claim
+3. proof debunking acusee claim (can include):
+  - Insconsistency between claims
+  - parts of claim that arent correct
+  - timings that dont fit
+  - geo-location data showing distance from incident location
+  - timestamp data showing same/differnt time from incident (+geolocat)
+  - etc...
 
 ## License
 
