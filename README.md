@@ -8,6 +8,7 @@
 ![Powered by](https://img.shields.io/badge/Powered%20by-ExifTool-important?style=for-the-badge)
 
 ## Repo Stats
+
 ![GitHub stars](https://img.shields.io/github/stars/4naxYT/OSINT-Suite?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/4naxYT/OSINT-Suite?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/4naxYT/OSINT-Suite?style=flat-square)
