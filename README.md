@@ -18,7 +18,8 @@ Run our python script via:
 
 ## Metadata (Exif Stripping)
 > This suite contains a working copy of `exiftools`,   
-> to install the latest go to [ https://exiftool.org/ ]
+> to install the latest go to [ https://exiftool.org/ ]  
+> or use [ [Online Exif Extractor](https://jimpl.com/) ]
 
 ### Put all your data to be `metadata searched `into :
 ```bash
