@@ -2,18 +2,18 @@
 > This is a suite that helps people perform `OSINT` on people or similar
 This repo is ment to give you as many tools to help with gathering information
 
-![License](https://img.shields.io/badge/License-Source%20Available-blue?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.0.0-green?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
-![Language](https://img.shields.io/badge/Language-Batch%20%26%20Python-lightgrey?style=for-the-badge)
-![Powered by](https://img.shields.io/badge/Powered%20by-ExifTool-important?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Source%20Available-blue?style=flat-rounded)
+![Version](https://img.shields.io/badge/version-1.0.0-green?style=flat-rounded)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-rounded&logo=windows)
+![Language](https://img.shields.io/badge/Language-Batch%20%26%20Python-lightgrey?flat-rounded)
+![Powered by](https://img.shields.io/badge/Powered%20by-ExifTool-important?style=flat-rounded)
 
 ## Repo Stats
 
-![GitHub stars](https://img.shields.io/github/stars/4naxYT/OSINT-Suite?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/4naxYT/OSINT-Suite?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/4naxYT/OSINT-Suite?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/4naxYT/OSINT-Suite?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/4naxYT/OSINT-Suite?style=social)
+![GitHub forks](https://img.shields.io/github/forks/4naxYT/OSINT-Suite?style=social)
+![GitHub issues](https://img.shields.io/github/issues/4naxYT/OSINT-Suite?style=flat-rounded)
+![GitHub last commit](https://img.shields.io/github/last-commit/4naxYT/OSINT-Suite?style=flat-rounded)
 
 ## Ip Reverse search
 > use someone's IP to get aproximate location
