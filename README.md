@@ -10,10 +10,10 @@ This repo is ment to give you as many tools to help with gathering information
 
 ## Repo Stats
 
-![GitHub stars](https://img.shields.io/github/stars/4naxYT/OSINT-Suite?style=social)
-![GitHub forks](https://img.shields.io/github/forks/4naxYT/OSINT-Suite?style=social)
-![GitHub issues](https://img.shields.io/github/issues/4naxYT/OSINT-Suite?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/4naxYT/OSINT-Suite?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/4naxYT/OSINT-Suite?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/4naxYT/OSINT-Suite?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/4naxYT/OSINT-Suite?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/4naxYT/OSINT-Suite?style=for-the-badge)
 
 ## Ip Reverse search
 > use someone's IP to get aproximate location
