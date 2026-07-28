@@ -1,3 +1,4 @@
+cls
 echo Installing dependencies...
 echo .
 python -m pip install -r "Ip - Locat\requirements.txt"
