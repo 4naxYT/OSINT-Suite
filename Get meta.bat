@@ -1,3 +1,4 @@
+cls
 @echo off
 setlocal enabledelayedexpansion
 
