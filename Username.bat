@@ -1,3 +1,4 @@
+cls
 @echo off
 echo.
 echo Downloading Sherlock....
